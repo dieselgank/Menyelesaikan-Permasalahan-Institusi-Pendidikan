@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 
-<img src="img\dashboard_final.png" alt="alt text" width="whatever" height="whatever">
+![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/dashboard_final.png)
 
 Pada bagian atas dashboard, terdapat empat slicer yang bertujuan untuk membantu pengguna menfilter sesuai kebutuhan. Slicer tersebut terdiri dari sebagai berikut.
 1. Status - terdiri dari "Dropout" dan "Not Dropout". Jika pengguna memilih "Not Dropout", pengguna dapat memilah lebih lanjut menjadi "Enrolled" dan "Graduated".
@@ -57,24 +57,16 @@ Langkah-langkah menggunakan sistem machine learning berbasis random forest adala
 
 2. Memilih "Prediction" pada taskbar di sisi kiri.
 
-<center><img src="img\taskbar.png" alt="alt text" width="whatever" height="whatever"></center>
-
-<center><img src="img\prediksi1.png" alt="alt text" width="whatever" height="whatever"></center>
+![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/taskbar.png)
 
 3. Mengisi data yang dibutuhkan. Perlu diperhatikan bahwa nilai jurusan atau Course tidak boleh 'None' serta terdapat batas minimum dan maksimum pada input numerik. Selain itu, pengguna harus menekan enter agar dapat menyimpan data numerik.
 
-<center><img src="img\prediksi2.png" alt="alt text" width="whatever" height="whatever"></center>
+![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/prediksi2.png)
 
 4. Hasil prediksi akan tampil di bagian bawah. Akan tetapi, pesan error akan muncul apabila pengguna tidak memilih jurusan atau Course.
 
-<center><img src="img\prediksi3.png" alt="alt text" width="whatever" height="whatever"></center>
+![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/prediksi3.png)
 
-<center><img src="img\prediksi4.png" alt="alt text" width="whatever" height="whatever"></center>
-
-
-```
-
-```
 
 ## Conclusion
 - Faktor yang paling memengaruhi siswa untuk dropout adalah biaya pendidikan terbaru. Sebanyak 32,2% siswa dengan biaya pendidikan terbaru melakukan dropout. Bisa jadi, biaya terbaru yang ditetapkan dianggap terlalu tinggi bagi sebagian mahasiswa sehingga melakukan dropout. Ditambah lagi, apabila biaya terbaru tersebut terlalu tinggi juga akan mendorong siswa melakukan hutang, padahal 22% dari pelaku dropout adalah penghutang.
